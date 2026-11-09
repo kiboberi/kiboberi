@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kiboberi&style=flat-square&color=9BB88A&label=GARDEN+VISITORS)
 
-**꒰ა Welcome to my little corner of the internet ໒꒱**
+**꒰ა Welcome to my little corner of the internet! ໒꒱**
 
 🍏 ✿ ☘︎ 🍃
 
@@ -131,19 +131,7 @@ Una colección de cosas que he creado, aprendido y experimentado.
 
 ---
 
-## 🐇 07. A little corner of the garden
-
-<div align="center">
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/cat-computer.gif" width="140"/>
-
-**Thank you for visiting!**
-
-Gracias por pasar a visitar mi pequeño jardín.
-
 🍏 🌿 ✿ ☘︎ 🌼
-
-`01001000 01101001 00100001`
 
 **Made with love by Kibo ♡**
 
