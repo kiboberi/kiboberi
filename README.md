@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B7D7A8,50:DCE8C8,100:F4EBD0&height=170&section=header&text=kiboberi&fontSize=65&fontColor=58734F&animation=fadeIn&fontAlignY=40&desc=a%20little%20garden%20of%20ideas%20%E2%98%98&descAlignY=65&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B7D7A8,50:DCE8C8,100:F4EBD0&height=170&section=header&text=kiboberi&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=a%20little%20garden%20of%20ideas%20%E2%98%98&descAlignY=65&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3500&pause=1000&color=78966A&center=true&vCenter=true&width=500&lines=Hello%2C+welcome+to+my+little+garden+%E2%99%A1;Growing+ideas%2C+one+line+at+a+time+%E2%9C%BF;A+little+bit+of+code+and+a+lot+of+curiosity+%E2%98%98" />
 
