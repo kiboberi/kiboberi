@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:FFB6D9&height=180&section=header&text=KIBOBERI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20digital%20universe%20%E2%9C%A7&descAlignY=60&descSize=15" width="100%"/>
@@ -164,4 +163,3 @@ Este es mi pequeño rincón de internet, donde comparto proyectos personales, tr
 `✧ ｡ﾟ･ See you in cyberspace! ･ﾟ｡ ✧`
 
 </div>
-```
