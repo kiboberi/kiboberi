@@ -22,7 +22,7 @@ descColor  = Color del subtítulo.
 Puedes cambiar estos valores directamente.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35C1C2,45:D0E86E,100:35C1C2&height=190&section=header&text=kiboberi&fontSize=62&fontColor=FFFFE0&animation=fadeIn&fontAlignY=42&desc=PAOLA%20%2F%20PERSONAL%20SPACE&descSize=13&descColor=D0E86E&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35C1C2,45:D0E86E,100:35C1C2&height=190&section=header&text=KIBOBERI&fontFamily=Poppins&fontSize=70&fontColor=FFFFE0&animation=fadeIn&fontAlignY=42&desc=PAOLA%20%2F%20PERSONAL%20SPACE&descSize=13&descColor=D0E86E&descAlignY=65" width="100%"/>
 
 **PROGRAMMING · CREATIVITY · PERSONAL PROJECTS**
 
